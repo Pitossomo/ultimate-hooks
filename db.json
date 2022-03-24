@@ -1,0 +1,37 @@
+{
+  "notes": [
+    {
+      "content": "custom-hooks are great",
+      "id": 1
+    },
+    {
+      "content": "the best featrure ever <3",
+      "id": 2
+    },
+    {
+      "content": "A vingança nunca é plena",
+      "id": 3
+    },
+    {
+      "content": "A biriba nunca é braba",
+      "id": 4
+    }
+  ],
+  "persons": [
+    {
+      "name": "mluukkai",
+      "number": "040-5483923",
+      "id": 1
+    },
+    {
+      "name": "kaltsoon",
+      "number": "045-2323456",
+      "id": 2
+    },
+    {
+      "name": "Jiripoca",
+      "number": "050-3260533",
+      "id": 3
+    }
+  ]
+}
